@@ -1,20 +1,22 @@
 === Wordpress Visual Slide Box Builder  ===
 Contributors: ecorvo
 Donate link: http://wordpressvisualslideboxbuilder.com/donate/
-Tags: slidebox, box, visual builder
+Tags: slidebox, box, visual builder, images, animations, WYSIWYG, slider, fancy, jquery, css
 Requires at least: 3.4
 Tested up to: 3.8
-Stable tag:
+Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/quick-guide-gplv3.html
 
-Wordpress Visual Slide-Box Builder Ð Build beautiful slides using CSS3, HTML5 & JavaScript without writing a line of code.
+Fancy jQuery and CSS3 driven animations to display inside a box. No coding experience needed - WYSIWYG
 
 == Description ==
 <p>
 WordPress Visual Slide-box Builder is a tool that allows you to build slide boxes visually.
 It gives you a live preview as you are building to allow you to visualize what your trying to achieve. You can customize your slide-box with
-a great variety of properties to create a very unique and custom slide-box animation. No coding experience is necessary, everything is done through
+a great variety of properties to create a very unique and custom slide-box animation.
+</p>
+<p> No coding experience is necessary, everything is done through
 the UI, which is very intuitive and easy to use. After you have created your slide-box and you feel good about it you can save it, copy the shortcode
 that is generated and paste it anywhere in your website so that your slide-box appears. WordPress Visual Slide-box Builder also allows you to modify
 existing slide-boxes, and any changes will automatically propagate throughout the website.
@@ -47,5 +49,5 @@ FAQs can be found <a target='blank' href='http://wordpressvisualslideboxbuilder.
 
 == Screenshots ==
 
-1. screen_1.png
-2. screen_2.png
+1. To the left you have the live preview, and the menu for save, create new, help, donate, and support. To the right you have all the properties you can set to create your animation.
+2. This shows the history, all the animations you have created in the past. 
