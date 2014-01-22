@@ -15,7 +15,8 @@ Edit a slide-box and changes propagate automatically
 Easy copy/pase shortcode
 Hope you enjoy this plugin and find it useful. If you have any suggestions please speak up, will love to hear about it.
 
-For a live demo visit the plugin's website
+For a live demo visit the plugin's <a href="http://wordpressvisualslideboxbuilder.com">website</>
+
 
 
 
